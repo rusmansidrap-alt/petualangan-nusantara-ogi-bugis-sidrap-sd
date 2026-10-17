@@ -1,0 +1,14 @@
+<div id="startScreen">
+
+</div>
+
+<div id="hud">
+
+</div>
+
+<div id="message">
+
+</div>
+
+<canvas id="gameCanvas">
+</canvas>

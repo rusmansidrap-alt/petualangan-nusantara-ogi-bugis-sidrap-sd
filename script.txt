@@ -1,0 +1,5 @@
+<script>
+
+/* JAVASCRIPT GAME */
+
+</script>

@@ -1,0 +1,27 @@
+# PETUALANGAN NUSANTARA OGI BUGIS SIDRAP
+
+Game edukasi Bahasa Bugis untuk siswa SD.
+
+## Fitur
+
+- Listening Huruf Lontara
+- Kincir PLTB Sidrap
+- Skor
+- Nyawa
+- Karakter OGI
+- Karakter WE TENRI
+
+## Cara Menjalankan
+
+Buka:
+
+index.html
+
+atau aktifkan GitHub Pages.
+
+## Teknologi
+
+- HTML5
+- CSS3
+- JavaScript
+- Canvas API
